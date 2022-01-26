@@ -1,0 +1,12 @@
+body {
+    background-color: burlywood;
+}
+
+h1.contacto {
+    color: brown;
+    text-align: center;
+}
+
+p.main {
+    font-weight: bold;
+}

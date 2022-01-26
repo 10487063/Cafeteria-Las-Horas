@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+}
+
+h1.h1 {
+    text-align: center;
+    color: brown;
+}
+
+p.café {
+    position: relative;
+    top: 200px;
+    left: 40%;
+}
+
+p.contacto {
+    position: relative;
+    top: 400px;
+    left: 1600px ;
+}
+
+p.cont {
+    position: relative;
+    top: 400px;
+    left: 1200px ;
+}
